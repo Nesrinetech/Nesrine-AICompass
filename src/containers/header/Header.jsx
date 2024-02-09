@@ -7,7 +7,7 @@ const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
       <h1 className="gradient__text">Welcome to Nesrine's AI Compass</h1>
-      <p>Welcome to Nesrine's AI Compass, your gateway to the cutting-edge world of artificial intelligence. Delve into a curated collection of my favorite AI tools, designed to enhace your curiosity and showcase the most valuable advancements in the field. Join me on this exciting journey as we explore the limitless potential of AI together. Let the exploration of innovation begin!</p>
+      <p>Welcome to Nesrine's AI Compass, your gateway to the cutting-edge world of artificial intelligence. Delve into a curated collection of my favorite AI tools. Scroll down to my Library and let the exploration of innovation begin!</p>
 
       
 

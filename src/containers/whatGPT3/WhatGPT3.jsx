@@ -9,7 +9,7 @@ const WhatGPT3 = () => (
     </div>
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
-      <p>Explore the Library</p>
+      <p><a href="#blog">Explore the Library</a></p>
     </div>
     <div className="gpt3__whatgpt3-container">
       <Feature title="Chatbots" text="Chatbots are computer programs designed to simulate conversation with human users. They use natural language processing to understand and respond to user queries in real-time. Commonly employed for customer support and information retrieval, chatbots enhance user engagement and automate interactions." />
