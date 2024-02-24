@@ -39,7 +39,7 @@ const Footer = () => (
         </div>
         <div className="gpt3__footer-links_div">
         <h4>Company</h4>
-        <p>Nesrine NeuroWeb Technologies</p>
+        <p>NeuralNes Company for Web Development.</p>
         <p>Privacy Policy</p>
         <a href="mailto:kabachinesrine34@gmail.com">
         <p>Contact</p>
@@ -53,7 +53,7 @@ const Footer = () => (
     </div>
 
     <div className='gpt3__footer-copyright'>
-      <p>@2024 Nesrine NeuroWeb Technologies. Nesrine Kabachi All rights reserved.</p>
+      <p>@2024  NeuralNes Company for Web Development. Nesrine Kabachi All rights reserved.</p>
     </div>
     </div>
   )
